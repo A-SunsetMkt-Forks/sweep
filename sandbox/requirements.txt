@@ -198,7 +198,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pycodestyle==2.11.0
 pycparser==2.21
-pydantic==1.10.12
+pydantic==1.10.13
 pydantic_core==2.6.3
 pydub==0.25.1
 pyee==9.0.4
